@@ -1,0 +1,6 @@
+setup.py
+gym_myaurora.egg-info/PKG-INFO
+gym_myaurora.egg-info/SOURCES.txt
+gym_myaurora.egg-info/dependency_links.txt
+gym_myaurora.egg-info/requires.txt
+gym_myaurora.egg-info/top_level.txt
